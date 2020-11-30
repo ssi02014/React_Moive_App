@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React_Moive_App/static/css/main.5aaafbed.chunk.css",
+    "main.js": "/React_Moive_App/static/js/main.030f7346.chunk.js",
+    "main.js.map": "/React_Moive_App/static/js/main.030f7346.chunk.js.map",
+    "runtime-main.js": "/React_Moive_App/static/js/runtime-main.68312e39.js",
+    "runtime-main.js.map": "/React_Moive_App/static/js/runtime-main.68312e39.js.map",
+    "static/js/2.566bb0aa.chunk.js": "/React_Moive_App/static/js/2.566bb0aa.chunk.js",
+    "static/js/2.566bb0aa.chunk.js.map": "/React_Moive_App/static/js/2.566bb0aa.chunk.js.map",
+    "static/js/3.26ad4cc8.chunk.js": "/React_Moive_App/static/js/3.26ad4cc8.chunk.js",
+    "static/js/3.26ad4cc8.chunk.js.map": "/React_Moive_App/static/js/3.26ad4cc8.chunk.js.map",
+    "index.html": "/React_Moive_App/index.html",
+    "static/css/main.5aaafbed.chunk.css.map": "/React_Moive_App/static/css/main.5aaafbed.chunk.css.map",
+    "static/js/2.566bb0aa.chunk.js.LICENSE.txt": "/React_Moive_App/static/js/2.566bb0aa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68312e39.js",
+    "static/js/2.566bb0aa.chunk.js",
+    "static/css/main.5aaafbed.chunk.css",
+    "static/js/main.030f7346.chunk.js"
+  ]
+}
